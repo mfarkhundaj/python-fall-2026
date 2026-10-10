@@ -1,4 +1,5 @@
-print("Salam to everyone!stdCode = 34551001
+print("Salam to everyone!")
+stdCode = 34551001
 stdMidterm = 80
 stdFinal = 98
 stdName = 'Mohammed'
@@ -14,7 +15,7 @@ print('Student Grade Final: ' + str(stdFinal))
 print(stdName , stdLastname)
 
 # 4. 
-#print(stdFinal + ' ' + stdLastname)
+print(stdFinal + ' ' + stdLastname)
 
 # 5.
 print(stdFinal == stdMidterm)
@@ -44,4 +45,4 @@ print(5 * 2 % 5)
 print('Final is : ' + str(stdFinal))
 
 # 15.
-print("3" * 3)")
+print("3" * 3)
